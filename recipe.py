@@ -4,5 +4,5 @@ def process(event):
 
 
 def echo(event):
-    print event
+    print(event)
     return event
